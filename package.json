@@ -1,0 +1,11 @@
+{
+  "name": "typescriptdemo",
+  "version": "1.0.0",
+  "description": "demo host",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "thuyvk",
+  "license": "ISC"
+}
